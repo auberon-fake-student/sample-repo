@@ -1,6 +1,6 @@
 # sample-repo
 
-Cool things about the GBA:
+The most cool things about the GBA:
 - retro
 - fun
 - low resource computing
