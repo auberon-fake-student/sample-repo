@@ -4,3 +4,4 @@ The most cool things about the GBA:
 - retro
 - fun
 - low resource computing
+- I like purple
